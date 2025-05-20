@@ -18,5 +18,7 @@ public class demoFuction {
         int b = sc.nextInt();
         int sum = calculateSum(a, b);
         System.out.println("Sum is :" + sum);
+
+        sc.close();
     }
 }

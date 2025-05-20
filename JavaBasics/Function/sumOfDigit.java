@@ -25,6 +25,7 @@ public class sumOfDigit {
 
         System.err.println("The sum is " + sumOfInt(num));
 
+        sc.close();
     }
 
 }

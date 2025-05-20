@@ -19,6 +19,8 @@ public class productOfNumber {
 
         int productoftwo = calProduct(a, b);
         System.out.println("Product of two numbers: "+productoftwo);
+
+        sc.close();
     }
     
 }

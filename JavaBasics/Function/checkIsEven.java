@@ -28,5 +28,7 @@ public class checkIsEven {
             System.out.println("Number is odd");
         }
 
+        sc.close();
+
     }
 }
